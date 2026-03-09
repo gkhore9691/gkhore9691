@@ -10,14 +10,16 @@ Indore, India · Open to Remote · [LinkedIn](https://www.linkedin.com/in/gopala
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 What I'm Building / Built
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Coldstart](https://github.com/gkhore9691/coldstart)** | AI context pack platform for coding agents like Claude Code & Cursor | Next.js, TypeScript, Supabase |
-| **[Replayly](https://github.com/gkhore9691/replayly)** | Distributed backend debugging & HTTP request replay tool | Node.js, Redis, WebSockets |
-| **[iOS Bundle ID Finder](https://iosbundleid.com)** | Live tool with organic SEO traffic — finds iOS app bundle IDs | Next.js, TypeScript |
-| **[Toolkkit India](https://toolkkit.in)** | Indian utility calculators (GST, EMI, Tax, etc.) | Next.js, TypeScript |
+| **[SuprSEO](https://suprseo.com)** | Co-founded · AI-powered SEO platform | Next.js, TypeScript, Claude, PostgreSql |
+| **[Coldstart](https://github.com/gkhore9691/coldstart)** | AI context pack platform for coding agents | Next.js, TypeScript, Supabase |
+| **[Replayly](https://github.com/gkhore9691/replayly)** | Distributed backend debugging & HTTP replay tool | Node.js, Redis, WebSockets |
+| **[iOS Bundle ID Finder](https://iosbundleid.com)** | Live tool · organic SEO traffic | Next.js, TypeScript |
+| **[Toolkkit India](https://toolkkit.in)** | Indian utility calculators | Next.js, TypeScript |
+```
 
 ---
 
@@ -87,7 +89,3 @@ Indore, India · Open to Remote · [LinkedIn](https://www.linkedin.com/in/gopala
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gkhore9691/gkhore9691/output/github-snake.svg" alt="github-snake" />
-</div>
