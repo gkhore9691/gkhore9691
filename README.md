@@ -56,6 +56,8 @@ Indore, India · Open to Remote · [LinkedIn](https://www.linkedin.com/in/gopala
 
 ---
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-gopala--khore.vercel.app-CBFF4D?style=flat&labelColor=0A0A0A&color=CBFF4D)](https://gopala-khore.vercel.app)
+
 ## 🧰 Tools & Icons
 
 <div align="center">
