@@ -19,7 +19,6 @@ Indore, India · Open to Remote · [LinkedIn](https://www.linkedin.com/in/gopala
 | **[Replayly](https://github.com/gkhore9691/replayly)** | Distributed backend debugging & HTTP replay tool | Node.js, Redis, WebSockets |
 | **[iOS Bundle ID Finder](https://iosbundleid.com)** | Live tool · organic SEO traffic | Next.js, TypeScript |
 | **[Toolkkit India](https://toolkkit.in)** | Indian utility calculators | Next.js, TypeScript |
-```
 
 ---
 
